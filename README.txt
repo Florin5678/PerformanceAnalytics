@@ -6,19 +6,20 @@ Welcome to the official repository for **Performance Analytics**, a project that
 
 ## 📁 What's inside
 
-### Datasets
+### 1. Datasets
 - Dataset and Dataset2 – Original, unprocessed CSVs  
 - Students and Students2 – Cleaned and optimized SQL-ready versions (Includes Id, schema refinements, ENUM normalization, and indexing for performance)
 
-### 2. `tableau/` – Dashboards  
+### 2. Tableau Dashboards  
 - Interactive visualizations built in Tableau  
-- Focused on motivation, academic scores, parental background, and external conditions  
+- Focused on motivation, academic scores, socioeconomic conditions, and family background
 - Exploratory questions answered through filters and calculated metrics (e.g. average score, pass rate)
+- Visualisation as bars and pie chart
 
-### 3. `website/` – WordPress Site (WIP)  
+### 3. WordPress Site (WIP)  
 - Basic WordPress install using Local  
-- Current status: early prototype with About, Dashboard, and Contact pages in progress  
-- Final goal: full integration of Tableau Public dashboards and interactive filtering for visitors
+- Current status: early prototype with pages in progress  
+- Partial integration of Tableau Public dashboards with interactive filtering
 
 ---
 
@@ -27,28 +28,28 @@ Welcome to the official repository for **Performance Analytics**, a project that
 - `MySQL` – Data transformation and querying  
 - `Tableau` – Visualization & exploration  
 - `WordPress` (Local by Flywheel) – Front-end interface  
-- `HTML/CSS` – For potential embedding & customization  
+- `HTML/CSS` – Embedding & customization  
 - `Git` – Version control
 
 ---
 
 ## 🌱 Status
 
-This project is **work in progress**. While the data and dashboards are functional, the website is still under development. Stay tuned for updates!
+This project is **work in progress**. The data, dashboards, and website are still under development. Stay tuned for updates!
 
 ---
 
 ## 📎 Live links
 
-- 🔗 Tableau Public: *[link here]*  
-- 🌐 Website (when deployed): *Coming soon*
+- 🔗 Tableau Public: [https://public.tableau.com/app/profile/florin.ilie/](https://public.tableau.com/app/profile/florin.ilie/)
+- 🌐 Website: *Coming soon*
 
 ---
 
 ## 🙋 About
 
-Made with curiosity, too much coffee, and a love for good graphs.  
-Author: [Florin Ilie](https://github.com/yourusername)
+Made with passion, care, and a love for matcha 🍵🍃
+Author: [Florin Ilie](https://github.com/Florin5678)
 
 ---
 
