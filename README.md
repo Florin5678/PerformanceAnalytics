@@ -7,19 +7,18 @@ Welcome to the official repository for **Performance Analytics**, a project that
 ## 📁 What's inside
 
 ### 1. Datasets
-- Dataset and Dataset2 – Original, unprocessed CSVs  
-- Students and Students2 – Cleaned and optimized SQL-ready versions (Includes Id, schema refinements, ENUM normalization, and indexing for performance)
+- Dataset and Dataset2 – Original, unprocessed CSVs (the first file has multiple exam scores; the second file has multiple performance factors)
+- Students and Students2 – Cleaned and optimized SQL-ready versions (Includes auto-increment ID, schema refinements, ENUM normalization, and indexing for performance)
 
 ### 2. Tableau Dashboards  
 - Interactive visualizations built in Tableau  
-- Focused on motivation, academic scores, socioeconomic conditions, and family background
-- Exploratory questions answered through filters and calculated metrics (e.g. average score, pass rate)
-- Visualisation as bars and pie chart
+- Exploratory questions answered through filters and calculated metrics (e.g. average score, pass rate, motivation, parental education, etc.)
+- Visualisation as bars and other charts
 
 ### 3. WordPress Site (WIP)  
-- Basic WordPress install using Local  
-- Current status: early prototype with pages in progress  
-- Partial integration of Tableau Public dashboards with interactive filtering
+- Basic WordPress install using Local
+- Exported as .wpress file using All-In-One WP Migration Plugin
+- Current status: early prototype with pages in progress; partial integration of Tableau Public dashboards with interactive filtering
 
 ---
 
@@ -42,13 +41,12 @@ This project is **work in progress**. The data, dashboards, and website are stil
 ## 📎 Live links
 
 - 🔗 Tableau Public: [https://public.tableau.com/app/profile/florin.ilie/](https://public.tableau.com/app/profile/florin.ilie/)
-- 🌐 Website: *Coming soon*
 
 ---
 
 ## 🙋 About
 
-Made with passion, care, and a love for matcha 🍵🍃
+Made with passion, care, and ice matcha lattes 🍵🍃🧊
 Author: [Florin Ilie](https://github.com/Florin5678)
 
 ---
